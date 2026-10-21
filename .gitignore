@@ -125,3 +125,6 @@ tmp
 
 # custom
 mmrotate/.mim
+.deps/
+.deps-wheels/
+*.pth
